@@ -1,0 +1,15 @@
+.btn-style-primary {
+    background-color: lawngreen;
+    height: 30px;
+    width: 100px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.btn-style-secondary {
+    background-color: pink;
+    height: 30px;
+    width: 100px;
+    padding: 5px;
+    border-radius: 10px;
+}

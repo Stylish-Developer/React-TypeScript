@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+header {
+  height: 60px;
+  width: 100%;
+  padding: 5px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 5px solid rgb(152, 140, 201)
+}
+
+header h3 {
+  color: #FFFFFF;
+  font-size: 16px;
+  font-family: cursive;
+  letter-spacing: 16px
+}
+
+main {
+  height: auto;
+  width: 100%;
+  background-color: #EFEFEF;
+  padding: 5px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer p {
+  color: #000000;
+  font-size: 16px;
+  font-family: cursive;
+  letter-spacing: 2px
+}
